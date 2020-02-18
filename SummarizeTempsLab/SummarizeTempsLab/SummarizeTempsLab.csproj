@@ -5,6 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+
   <ItemGroup>
     <None Update="temps.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
